@@ -1,5 +1,4 @@
 
-
 /*--Lâmpada--*/
 function alterarLampadas() {
   let imagem = document.getElementById('lampada');    
@@ -12,6 +11,7 @@ function alterarLampadas() {
   else
   imagem.src = 'img/acesa.jpg';
 }
+
 
 
 
